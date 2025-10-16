@@ -15,7 +15,7 @@ Data is persisted to AWS S3 for long-term storage and analysis.
 
 ### System Diagram
 
-![Architecture Diagram](./images/architecture-diagram.png)
+![Architecture Diagram](Architecture.jpg)
 
 *Replace `./images/architecture-diagram.png` with the path to your architecture image*
 
