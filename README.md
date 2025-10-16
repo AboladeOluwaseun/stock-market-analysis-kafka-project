@@ -16,7 +16,8 @@ Data is persisted to AWS S3 for long-term storage and analysis.
 ### System Diagram
 
 ![Architecture Diagram](Architecture.jpg)
-![S3 Bucket and Athena Diagram](Screenshot 2025-10-16 163904.png,Screenshot 2025-10-16 163813.png )
+![S3 Bucket and Athena Diagram](Screenshot 2025-10-16 163813.png)
+![S3 Bucket and Athena Diagram](Screenshot Screenshot 2025-10-16 163904.png)
 
 ```
 Stock Market Dataset
