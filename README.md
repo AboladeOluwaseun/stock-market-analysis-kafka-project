@@ -17,8 +17,6 @@ Data is persisted to AWS S3 for long-term storage and analysis.
 
 ![Architecture Diagram](Architecture.jpg)
 
-*Replace `./images/architecture-diagram.png` with the path to your architecture image*
-
 ```
 Stock Market Dataset
         ↓
